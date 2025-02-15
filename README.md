@@ -100,24 +100,30 @@
 
 ---
 
-<h2 align="center">🔥 CRM & System Optimization (SugarCRM) 🔥</h2>
+<h2 align="center">🚀 CRM & System Optimization (SugarCRM) 🚀</h2>
 
-🚀 **Key Contributions & Enhancements**  
+💡 **Key Contributions & Enhancements**  
 
 ✅ **Customized SugarCRM** with **logic hooks, APIs, and automation integrations** to enhance efficiency.  
-✅ **Developed Webhook Integrations** for:
+
+🔗 **Developed Webhook Integrations** for:  
    📲 **WhatsApp Cloud API**  
    💬 **Facebook Messenger & Comments**  
    🎵 **TikTok API**  
 
-✅ **Built an AI-powered Content Moderation Tool** to **detect and remove inappropriate Facebook & TikTok comments** automatically.  
-✅ **Integrated OpenAI API** to enable **real-time text analysis, chatbot functionality, and automated responses**.  
-✅ **Configured SSO (Single Sign-On)** for seamless authentication using:
+🛡 **Built an AI-powered Content Moderation Tool** to **detect and remove inappropriate Facebook & TikTok comments** automatically.  
+
+🤖 **Integrated OpenAI API** for:  
+   📝 **Real-time text analysis**  
+   💬 **AI-based chatbot functionality**  
+   🛠 **Automated response generation**  
+
+🔐 **Configured Single Sign-On (SSO) Systems** for seamless authentication with:  
    🔹 **Google OAuth**  
    🔹 **Microsoft Azure**  
    🔹 **LinkedIn Authentication**  
 
-✅ **Developed a Global Error Logging System** to **track, debug, and optimize performance across SugarCRM workflows**.  
+📊 **Developed a Global Error Logging System** to **track, debug, and optimize performance across SugarCRM workflows**.  
 
 ---
 
