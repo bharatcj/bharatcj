@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 <p align="center">About Me</p>
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250">
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠 Tech Stack & Expertise
+<h2 align="center">🛠 Tech Stack & Expertise</h2>
 
 #### 🚀 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,18 +85,22 @@
 
 ---
 
-### 📂 **My Notable Projects**
+<h2 align="center">📂 My Notable Projects 🚀</h2>
 
-| 🔥 Project | 🚀 Description |
-|------------|--------------|
-| [**PDF Elasticsearch Indexer**](https://github.com/bharatcj/pdf-elasticsearch-indexer) | Extract text from PDFs and index them in Elasticsearch |
-| [**SugarCRM OAuth2 Guide**](https://github.com/bharatcj/sugarcrm-oauth2-authentication-guide) | Guide for OAuth 2.0 authentication in SugarCRM |
-| [**Airflow DAG Manager**](https://github.com/bharatcj/airflow-dag-manager) | Python script to generate and manage dynamic DAGs in Airflow |
-| [**OCR Text Extractor**](https://github.com/bharatcj/ocr-text-extractor) | Extract text from images and PDFs using EasyOCR |
-| [**GCP Speech Transcriber**](https://github.com/bharatcj/gcp-speech-transcriber) | Transcribe audio files using Google Speech-to-Text API |
-| [**Google Signature Updater**](https://github.com/bharatcj/google-signature-updater) | Automate email signature updates in Google Workspace |
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600">
+</p>
 
-🔎 **Explore more:** [GitHub Repositories](https://github.com/bharatcj?tab=repositories)  
+| 🔥 **Project** | 🚀 **Description** |
+|--------------|----------------|
+| [📜 **PDF Elasticsearch Indexer**](https://github.com/bharatcj/pdf-elasticsearch-indexer) | Extract text from PDFs and index them in Elasticsearch 📄🔍 |
+| [🔐 **SugarCRM OAuth2 Guide**](https://github.com/bharatcj/sugarcrm-oauth2-authentication-guide) | Guide for implementing OAuth 2.0 authentication in SugarCRM 🔑 |
+| [⚡ **Airflow DAG Manager**](https://github.com/bharatcj/airflow-dag-manager) | Manage and automate dynamic DAGs in Apache Airflow ⏳ |
+| [📝 **OCR Text Extractor**](https://github.com/bharatcj/ocr-text-extractor) | Extract text from images and PDFs using EasyOCR 🖼️ 🔍 |
+| [🎙️ **GCP Speech Transcriber**](https://github.com/bharatcj/gcp-speech-transcriber) | Convert audio files to text using Google Speech-to-Text API 🎤 |
+| [📧 **Google Signature Updater**](https://github.com/bharatcj/google-signature-updater) | Automate email signature updates in Google Workspace ✍️ |
+
+🔎 **Explore more:** [🔗 GitHub Repositories](https://github.com/bharatcj?tab=repositories)   
 
 ---
 
