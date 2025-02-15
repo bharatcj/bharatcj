@@ -16,12 +16,12 @@
 ---
 
 ### 🚀 About Me
-- 🔹 **6+ years** of experience as a **Full Stack Developer** specializing in **Python** and **AI-driven solutions**.
-- 🔹 Passionate about **automation, workflow optimization, and AI-based applications**.
-- 🔹 Extensive experience in **CRM integration, workflow automation, and cloud-based AI solutions**.
-- 🔹 Skilled in **backend, full-stack development, and cloud computing**.
-- 🔹 Love building **AI-powered tools, automation scripts, and APIs**.
-- 🔹 Always learning and contributing to **open-source projects**.
+🔹 **6+ years** of experience as a **Full Stack Developer** specializing in **Python** and **AI-driven solutions**.  
+🔹 Passionate about **automation, workflow optimization, and AI-based applications**.  
+🔹 Extensive experience in **CRM integration, workflow automation, and cloud-based AI solutions**.  
+🔹 Skilled in **backend, full-stack development, and cloud computing**.  
+🔹 Love building **AI-powered tools, automation scripts, and APIs**.  
+🔹 Always learning and contributing to **open-source projects**.  
 
 ---
 
@@ -82,12 +82,12 @@
 ---
 
 ### 🔥 CRM & System Optimization (SugarCRM)
-- ✅ **Enhanced SugarCRM with Custom Logic Hooks, APIs, and Integrations** to improve efficiency.
-- ✅ **Developed Webhook Integrations** for **WhatsApp Cloud API, Facebook Messenger/Comments, and TikTok**.
-- ✅ **Built an AI-powered content moderation tool** to monitor and remove negative Facebook & TikTok comments.
-- ✅ **Integrated OpenAI API** for real-time text analysis in CRM applications.
-- ✅ **Configured SSO (Single Sign-On) systems** with Google, Azure, and LinkedIn for authentication.
-- ✅ **Developed global error logging scripts** to optimize SugarCRM performance and debugging.
+✅ Enhanced **SugarCRM** with **custom logic hooks, APIs, and integrations** to improve efficiency.  
+✅ Developed **Webhook Integrations** for **WhatsApp Cloud API, Facebook Messenger/Comments, and TikTok**.  
+✅ Built an **AI-powered content moderation tool** to monitor and remove negative Facebook & TikTok comments.  
+✅ Integrated **OpenAI API** for real-time text analysis in CRM applications.  
+✅ Configured **SSO (Single Sign-On) systems** with **Google, Azure, and LinkedIn** for authentication.  
+✅ Developed a **global error logging system** to enhance SugarCRM debugging and performance optimization.  
 
 ---
 
