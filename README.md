@@ -18,33 +18,51 @@
 ### 🚀 About Me
 - 🔹 **6+ years** of experience as a **Full Stack Developer** specializing in **Python** and **AI-driven solutions**.
 - 🔹 Passionate about **automation, workflow optimization, and AI-based applications**.
+- 🔹 Extensive experience in **CRM integration, workflow automation, and cloud-based AI solutions**.
 - 🔹 Skilled in **backend, full-stack development, and cloud computing**.
 - 🔹 Love building **AI-powered tools, automation scripts, and APIs**.
 - 🔹 Always learning and contributing to **open-source projects**.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Expertise
+
 #### 🚀 Programming Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🧠 AI & Machine Learning:
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=white)
+![PyTesseract](https://img.shields.io/badge/PyTesseract-282C34?style=for-the-badge&logo=tesseract&logoColor=white)
 
 #### 🔥 Frameworks & Libraries:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-FFD700?style=for-the-badge)
+![Tabula](https://img.shields.io/badge/Tabula-FF5733?style=for-the-badge)
+![Pytesseract](https://img.shields.io/badge/Pytesseract-000000?style=for-the-badge)
 
-#### 📡 APIs & Cloud:
+#### 🌐 Cloud & Services:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+#### 🔧 Tools & Version Control:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Face Recognition](https://img.shields.io/badge/Face%20Recognition-007808?style=for-the-badge)
 
 ---
 
@@ -60,6 +78,16 @@
 | [**Google Signature Updater**](https://github.com/bharatcj/google-signature-updater) | Automate email signature updates in Google Workspace |
 
 🔎 Check out more on my [GitHub Repositories](https://github.com/bharatcj?tab=repositories)!
+
+---
+
+### 🔥 CRM & System Optimization (SugarCRM)
+- ✅ **Enhanced SugarCRM with Custom Logic Hooks, APIs, and Integrations** to improve efficiency.
+- ✅ **Developed Webhook Integrations** for **WhatsApp Cloud API, Facebook Messenger/Comments, and TikTok**.
+- ✅ **Built an AI-powered content moderation tool** to monitor and remove negative Facebook & TikTok comments.
+- ✅ **Integrated OpenAI API** for real-time text analysis in CRM applications.
+- ✅ **Configured SSO (Single Sign-On) systems** with Google, Azure, and LinkedIn for authentication.
+- ✅ **Developed global error logging scripts** to optimize SugarCRM performance and debugging.
 
 ---
 
