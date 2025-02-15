@@ -19,13 +19,28 @@
 
 ---
 
-### 🚀 **About Me**
-🔹 **6+ years** of experience as a **Full Stack Developer** specializing in **Python** and **AI-driven solutions**.  
-🔹 Passionate about **automation, workflow optimization, and AI-based applications**.  
-🔹 Extensive experience in **CRM integration, workflow automation, and cloud-based AI solutions**.  
-🔹 Skilled in **backend, full-stack development, and cloud computing**.  
-🔹 Love building **AI-powered tools, automation scripts, and APIs**.  
-🔹 Always learning and contributing to **open-source projects**.  
+## 🚀 <p align="center">About Me</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250">
+</p>
+
+🎯 **Passionate Full Stack Developer** with **6+ years** of expertise in **Python, AI-driven solutions, and workflow automation**.  
+
+💡 I specialize in building **intelligent automation tools**, **AI-powered applications**, and **scalable web solutions**.  
+
+🌍 **Extensive experience** in:
+- **Backend & Full Stack Development**  
+- **CRM Integration & Workflow Automation**  
+- **AI/ML Model Deployment & Data Processing**  
+- **Cloud-based AI Solutions & API Development**  
+
+📌 **What I Love?**  
+🔹 Automating complex business workflows 🚀  
+🔹 Building AI-powered web applications 🤖  
+🔹 Contributing to **open-source projects** 💻  
+
+📖 **Always Learning!** I'm constantly exploring **new technologies, AI advancements, and DevOps solutions**.  
 
 ---
 
