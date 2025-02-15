@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="650"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
 </p>
 
 <p align="center">
