@@ -87,10 +87,6 @@
 
 <h2 align="center">📂 My Notable Projects 🚀</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="600">
-</p>
-
 | 🔥 **Project** | 🚀 **Description** |
 |--------------|----------------|
 | [📜 **PDF Elasticsearch Indexer**](https://github.com/bharatcj/pdf-elasticsearch-indexer) | Extract text from PDFs and index them in Elasticsearch 📄🔍 |
@@ -104,13 +100,28 @@
 
 ---
 
-### 🔥 **CRM & System Optimization (SugarCRM)**
-✅ Enhanced **SugarCRM** with **custom logic hooks, APIs, and integrations**.  
-✅ Developed **Webhook Integrations** for **WhatsApp Cloud API, Facebook Messenger/Comments, and TikTok**.  
-✅ Built an **AI-powered content moderation tool** for Facebook & TikTok comments.  
-✅ Integrated **OpenAI API** for **real-time text analysis** in CRM applications.  
-✅ Configured **SSO (Single Sign-On) systems** with **Google, Azure, and LinkedIn**.  
-✅ Developed a **global error logging system** for **SugarCRM performance optimization**.  
+<h2 align="center">🔥 CRM & System Optimization (SugarCRM) 🔥</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2wJsC23ikRJW4k/giphy.gif" width="600">
+</p>
+
+🚀 **Key Contributions & Enhancements**  
+
+✅ **Customized SugarCRM** with **logic hooks, APIs, and automation integrations** to enhance efficiency.  
+✅ **Developed Webhook Integrations** for:
+   - 📲 **WhatsApp Cloud API**  
+   - 💬 **Facebook Messenger & Comments**  
+   - 🎵 **TikTok API**  
+
+✅ **Built an AI-powered Content Moderation Tool** to **detect and remove inappropriate Facebook & TikTok comments** automatically.  
+✅ **Integrated OpenAI API** to enable **real-time text analysis, chatbot functionality, and automated responses**.  
+✅ **Configured SSO (Single Sign-On)** for seamless authentication using:
+   - 🔹 **Google OAuth**  
+   - 🔹 **Microsoft Azure**  
+   - 🔹 **LinkedIn Authentication**  
+
+✅ **Developed a Global Error Logging System** to **track, debug, and optimize performance across SugarCRM workflows**.  
 
 ---
 
