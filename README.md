@@ -90,11 +90,11 @@
 | 🔥 **Project** | 🚀 **Description** |
 |--------------|----------------|
 | [📜 **PDF Elasticsearch Indexer**](https://github.com/bharatcj/pdf-elasticsearch-indexer) | Extract text from PDFs and index them in Elasticsearch 📄🔍 |
-| [🔐 **SugarCRM OAuth2 Guide**](https://github.com/bharatcj/sugarcrm-oauth2-authentication-guide) | Guide for implementing OAuth 2.0 authentication in SugarCRM 🔑 |
 | [⚡ **Airflow DAG Manager**](https://github.com/bharatcj/airflow-dag-manager) | Manage and automate dynamic DAGs in Apache Airflow ⏳ |
-| [📝 **OCR Text Extractor**](https://github.com/bharatcj/ocr-text-extractor) | Extract text from images and PDFs using EasyOCR 🖼️ 🔍 |
+| [🔑 **GCP Signed URL Generator**](https://github.com/bharatcj/gcp-signed-url-generator) | Generate signed URLs for files stored in Google Cloud Storage 🔗 |
 | [🎙️ **GCP Speech Transcriber**](https://github.com/bharatcj/gcp-speech-transcriber) | Convert audio files to text using Google Speech-to-Text API 🎤 |
 | [📧 **Google Signature Updater**](https://github.com/bharatcj/google-signature-updater) | Automate email signature updates in Google Workspace ✍️ |
+| [🔐 **SugarCRM OAuth2 Guide**](https://github.com/bharatcj/sugarcrm-oauth2-authentication-guide) | Guide for implementing OAuth 2.0 authentication in SugarCRM 🔑 |
 
 🔎 **Explore more:** [🔗 GitHub Repositories](https://github.com/bharatcj?tab=repositories)   
 
