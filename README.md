@@ -130,7 +130,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&theme=radical" height="180" />
-  <img src="https://streak-stats.demolab.com?user=bharatcj&theme=radical" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=bharatcj&theme=radical&sanitize=true" height="180" />
 </p>
 
 ---
