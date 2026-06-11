@@ -27,6 +27,9 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 - 🛠 **I love building:** payment systems, AI pipelines (speech-to-text into LLM summaries), secure Linux infrastructure, and automation that removes whole categories of manual work
 - 🔐 **Recently shipped:** an end-to-end infrastructure security overhaul (VPN-segmented routing, automated SSL via DNS-01, hardened API firewalling) and a zero-dependency encrypted database backup platform
 
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## 🏗️ What I Built at PartyWitty
 
 | Area | Highlights |
@@ -38,6 +41,9 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 | 🔐 **Security & Backups** | 46-point hardening overhaul, VPN-only admin perimeter, **AES-256-GCM encrypted DB backups to Cloudflare R2** with TOTP MFA |
 | 📱 **Multi-surface delivery** | One platform across React web, Flutter customer + partner apps, CodeIgniter & Node backends |
 | 📊 **Team process** | Trello-synced engineering reports, HRMS with geofence + face-detection attendance |
+
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -61,6 +67,9 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 </div>
 
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## 📂 Featured Projects
 
 | Project | What it does | Stack |
@@ -74,16 +83,24 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 | [sugarcrm-api-security-hook](https://github.com/bharatcj/sugarcrm-api-security-hook) | Security-focused logic hook for monitoring API access in SugarCRM | PHP |
 | [google-signature-updater](https://github.com/bharatcj/google-signature-updater) | Automates email-signature rollouts across Google Workspace | Python · Workspace API |
 
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatcj&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=2dd4bf&text_color=9ca3af&ring_color=10b981" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatcj&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=34d399&text_color=9ca3af" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatcj&theme=merko&hide_border=true" alt="Contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatcj&hide_border=true&background=0d1117&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=6ee7b7&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="Contribution streak" />
+
+<img src="https://raw.githubusercontent.com/bharatcj/bharatcj/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
+
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🤝 Let's Connect
 

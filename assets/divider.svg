@@ -1,0 +1,25 @@
+<svg width="1280" height="30" viewBox="0 0 1280 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="dline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#10b981" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#34d399" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#2dd4bf" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dpulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6ee7b7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#6ee7b7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="14" width="1280" height="2" rx="1" fill="url(#dline)"/>
+  <circle cy="15" r="9" fill="url(#dpulse)">
+    <animate attributeName="cx" values="0;1280;0" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="15" r="3" fill="#34d399">
+    <animate attributeName="cx" values="0;1280;0" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cy="15" r="2" fill="#2dd4bf" opacity="0.8">
+    <animate attributeName="cx" values="1280;0;1280" dur="22s" repeatCount="indefinite"/>
+  </circle>
+</svg>

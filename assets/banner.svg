@@ -6,14 +6,14 @@
       <stop offset="100%" stop-color="#0a2018"/>
     </linearGradient>
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#34d399">
-        <animate attributeName="stop-color" values="#34d399;#2dd4bf;#fbbf24;#34d399" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#6ee7b7">
+        <animate attributeName="stop-color" values="#6ee7b7;#34d399;#2dd4bf;#6ee7b7" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#2dd4bf">
-        <animate attributeName="stop-color" values="#2dd4bf;#fbbf24;#34d399;#2dd4bf" dur="8s" repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#34d399">
+        <animate attributeName="stop-color" values="#34d399;#2dd4bf;#6ee7b7;#34d399" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#fbbf24">
-        <animate attributeName="stop-color" values="#fbbf24;#34d399;#2dd4bf;#fbbf24" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#2dd4bf">
+        <animate attributeName="stop-color" values="#2dd4bf;#6ee7b7;#34d399;#2dd4bf" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <radialGradient id="glowEmerald" cx="50%" cy="50%" r="50%">
@@ -21,8 +21,8 @@
       <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowGold" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
       <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
@@ -49,7 +49,7 @@
   <circle cx="940" cy="200" r="3.5" fill="#34d399" opacity="0.8">
     <animate attributeName="cy" values="200;186;200" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1120" cy="150" r="2.5" fill="#fbbf24" opacity="0.8">
+  <circle cx="1120" cy="150" r="2.5" fill="#4ade80" opacity="0.8">
     <animate attributeName="cy" values="150;164;150" dur="6.5s" repeatCount="indefinite"/>
   </circle>
   <circle cx="1190" cy="235" r="3" fill="#2dd4bf" opacity="0.7">
@@ -74,8 +74,8 @@
     <text x="116" y="275" text-anchor="middle" fill="#6ee7b7">8+ years</text>
     <rect x="180" y="256" rx="14" width="120" height="28" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.45"/>
     <text x="240" y="275" text-anchor="middle" fill="#6ee7b7">Payments</text>
-    <rect x="312" y="256" rx="14" width="130" height="28" fill="#f59e0b" fill-opacity="0.12" stroke="#f59e0b" stroke-opacity="0.45"/>
-    <text x="377" y="275" text-anchor="middle" fill="#fcd34d">AI Pipelines</text>
+    <rect x="312" y="256" rx="14" width="130" height="28" fill="#2dd4bf" fill-opacity="0.12" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <text x="377" y="275" text-anchor="middle" fill="#5eead4">AI Pipelines</text>
     <rect x="454" y="256" rx="14" width="130" height="28" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.45"/>
     <text x="519" y="275" text-anchor="middle" fill="#6ee7b7">Linux Infra</text>
   </g>
@@ -85,7 +85,7 @@
     <text x="950" y="105" fill="#34d399">while (alive) {</text>
     <text x="975" y="133" fill="#a1a1aa">build();</text>
     <text x="975" y="161" fill="#a1a1aa">lead();</text>
-    <text x="975" y="189" fill="#fbbf24">ship();</text>
+    <text x="975" y="189" fill="#6ee7b7">ship();</text>
     <text x="950" y="217" fill="#34d399">}</text>
   </g>
 
