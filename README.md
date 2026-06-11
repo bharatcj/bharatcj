@@ -1,145 +1,96 @@
-<h1 align="center">Hi, I'm Bharat CJ 👋</h1>
-<h3 align="center">Senior Software Developer | AI & Automation Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,18,24&text=Bharat%20CJ&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Team%20Lead%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20Automation&descSize=20&descAlignY=70" alt="Bharat CJ banner" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharat-cj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharatchijay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/bharatcj">
-    <img src="https://img.shields.io/github/followers/bharatcj?label=Follow&style=social" />
-  </a>
-</p>
+<a href="https://github.com/bharatcj">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Team+Lead+%40+PartyWitty;7%2B+years+%C2%B7+Full-Stack+%26+AI+Engineering;PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+LLMs;I+ship+platforms%2C+not+just+features." alt="Typing intro" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/bharat-cj/"><img src="https://img.shields.io/badge/LinkedIn-bharat--cj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:bharatchijay@gmail.com"><img src="https://img.shields.io/badge/Email-bharatchijay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/India-Open%20to%20Remote-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=bharatcj&style=for-the-badge&color=8b5cf6" alt="Profile views"/>
+
+</div>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250">
-</p>
+I'm **Bharat Chejay J** — Team Lead at **PartyWitty**, where I own engineering across a party-booking platform spanning **web, mobile, admin, and partner surfaces**.
 
-🎯 **Passionate Full Stack Developer** with **6+ years** of expertise in **Python, AI-driven solutions, and workflow automation**.  
+- 🧭 **Currently:** leading full-stack delivery at PartyWitty — **1,100+ commits across 10 repositories in my first 4 months**, including **87% of the core backend**
+- 🤖 **Previously:** 4 years building AI document-intelligence and CRM automation at Nablasol (OCR + GPT-4 pipelines at 95% accuracy, 24M-record scale) and 3.5 years of full-stack delivery at Quantum Leap (TATA management portal)
+- 🛠 **I love building:** payment systems, AI pipelines (speech-to-text → LLM summaries), secure infrastructure, and automation that removes whole categories of manual work
+- 🔐 **Recently shipped:** an end-to-end infrastructure security overhaul — VPN-segmented routing, automated SSL via DNS-01, hardened API firewalling — and a zero-dependency encrypted database backup platform
 
-💡 I specialize in building **intelligent automation tools**, **AI-powered applications**, and **scalable web solutions**.  
+## 🏗️ What I'm Building at PartyWitty
 
-🌍 **Extensive experience** in:
-- **Backend & Full Stack Development**  
-- **CRM Integration & Workflow Automation**  
-- **AI/ML Model Deployment & Data Processing**  
-- **Cloud-based AI Solutions & API Development**  
+| Area | Highlights |
+|------|------------|
+| 💳 **Payments** | Unified checkout across **Razorpay, Paytm, Stripe & Easebuzz** with wallet co-funding, webhook firewalling & reward issuance |
+| 🧠 **AI Call Intelligence** | Call-center recordings → **AssemblyAI transcription → local LLM (Ollama) summaries** → automated daily reports |
+| 💬 **WhatsApp AI Concierge** | Meta Cloud API bot with **Dify AI** conversations, session memory & message queuing |
+| 🔐 **Infra & Security** | VPN-only admin perimeter, Cloudflare DNS automation, Apache hardening, **AES-256-GCM encrypted DB backups to Cloudflare R2** with TOTP MFA |
+| 📱 **Multi-surface delivery** | One platform across React web, Flutter customer + partner apps, CodeIgniter & Node backends |
+| 📊 **Team process** | Trello-synced engineering reports, HRMS with geofence + face-detection attendance |
 
-📌 **What I Love?**  
-🔹 Automating complex business workflows 🚀  
-🔹 Building AI-powered web applications 🤖  
-🔹 Contributing to **open-source projects** 💻  
+## 🛠️ Tech Stack
 
-📖 **Always Learning!** I'm constantly exploring **new technologies, AI advancements, and DevOps solutions**.  
+<div align="center">
 
----
+**Languages & Backend**
 
-<h2 align="center">🛠 Tech Stack & Expertise</h2>
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,nodejs,mysql,postgres,redis" alt="Languages and backend" />
 
-#### 🚀 Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend & Mobile**
 
-#### 🧠 AI & Machine Learning:
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=white)
-![PyTesseract](https://img.shields.io/badge/PyTesseract-282C34?style=for-the-badge&logo=tesseract&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,tailwind,bootstrap,html,css" alt="Frontend and mobile" />
 
-#### 🔥 Frameworks & Libraries:
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-FFD700?style=for-the-badge)
-![Tabula](https://img.shields.io/badge/Tabula-FF5733?style=for-the-badge)
-![Pytesseract](https://img.shields.io/badge/Pytesseract-000000?style=for-the-badge)
+**AI, Cloud & DevOps**
 
-#### 🌐 Cloud & Services:
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,gcp,aws,cloudflare,docker,linux,nginx" alt="AI cloud and devops" />
 
-#### 🔧 Tools & Version Control:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Face Recognition](https://img.shields.io/badge/Face%20Recognition-007808?style=for-the-badge)
+**Frameworks & Tools**
 
----
+<img src="https://skillicons.dev/icons?i=django,flask,laravel,git,github,vscode,figma,apple" alt="Frameworks and tools" />
 
-<h2 align="center">📂 My Notable Projects 🚀</h2>
+</div>
 
-| 🔥 **Project** | 🚀 **Description** |
-|--------------|----------------|
-| [📜 **PDF Elasticsearch Indexer**](https://github.com/bharatcj/pdf-elasticsearch-indexer) | Extract text from PDFs and index them in Elasticsearch 📄🔍 |
-| [⚡ **Airflow DAG Manager**](https://github.com/bharatcj/airflow-dag-manager) | Manage and automate dynamic DAGs in Apache Airflow ⏳ |
-| [🔑 **GCP Signed URL Generator**](https://github.com/bharatcj/gcp-signed-url-generator) | Generate signed URLs for files stored in Google Cloud Storage 🔗 |
-| [🎙️ **GCP Speech Transcriber**](https://github.com/bharatcj/gcp-speech-transcriber) | Convert audio files to text using Google Speech-to-Text API 🎤 |
-| [📧 **Google Signature Updater**](https://github.com/bharatcj/google-signature-updater) | Automate email signature updates in Google Workspace ✍️ |
-| [🔐 **SugarCRM OAuth2 Guide**](https://github.com/bharatcj/sugarcrm-oauth2-authentication-guide) | Guide for implementing OAuth 2.0 authentication in SugarCRM 🔑 |
+## 📂 Featured Projects
 
-🔎 **Explore more:** [🔗 GitHub Repositories](https://github.com/bharatcj?tab=repositories)   
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [pdf-elasticsearch-indexer](https://github.com/bharatcj/pdf-elasticsearch-indexer) ⭐ | Extracts text from PDFs (incl. OCR) and indexes them for instant full-text search | Python · Elasticsearch |
+| [sugarcrm-elasticsearch](https://github.com/bharatcj/sugarcrm-elasticsearch) | Custom global-search API for SugarCRM powered by Elasticsearch | PHP · Elasticsearch |
+| [airflow-dag-manager](https://github.com/bharatcj/airflow-dag-manager) | Generates and manages dynamic DAGs in Apache Airflow | Python · Airflow |
+| [gcp-speech-transcriber](https://github.com/bharatcj/gcp-speech-transcriber) | Transcribes audio in Google Cloud Storage via Speech-to-Text | Python · GCP |
+| [ocr-text-extractor](https://github.com/bharatcj/ocr-text-extractor) | Extracts text from images & PDFs using EasyOCR | Python · EasyOCR |
+| [youtube-bulk-uploader](https://github.com/bharatcj/youtube-bulk-uploader) | Resumable, retrying, playlist-aware bulk YouTube uploads | Python · YouTube API |
+| [sugarcrm-api-security-hook](https://github.com/bharatcj/sugarcrm-api-security-hook) | Security-focused logic hook for monitoring API access in SugarCRM | PHP |
+| [google-signature-updater](https://github.com/bharatcj/google-signature-updater) | Automates email-signature rollouts across Google Workspace | Python · Workspace API |
 
----
+## 📊 GitHub Stats
 
-<h2 align="center">🚀 CRM & System Optimization (SugarCRM) 🚀</h2>
+<div align="center">
 
-💡 **Key Contributions & Enhancements**  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatcj&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages" />
 
-✅ **Customized SugarCRM** with **logic hooks, APIs, and automation integrations** to enhance efficiency.  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatcj&theme=midnight-purple&hide_border=true" alt="Contribution streak" />
 
-🔗 **Developed Webhook Integrations** for:  
-   📲 **WhatsApp Cloud API**  
-   💬 **Facebook Messenger & Comments**  
-   🎵 **TikTok API**  
+</div>
 
-🛡 **Built an AI-powered Content Moderation Tool** to **detect and remove inappropriate Facebook & TikTok comments** automatically.  
+## 🤝 Let's Connect
 
-🤖 **Integrated OpenAI API** for:  
-   📝 **Real-time text analysis**  
-   💬 **AI-based chatbot functionality**  
-   🛠 **Automated response generation**  
+<div align="center">
 
-🔐 **Configured Single Sign-On (SSO) Systems** for seamless authentication with:  
-   🔹 **Google OAuth**  
-   🔹 **Microsoft Azure**  
-   🔹 **LinkedIn Authentication**  
+💼 [LinkedIn](https://www.linkedin.com/in/bharat-cj/) · 📧 [bharatchijay@gmail.com](mailto:bharatchijay@gmail.com) · 🐙 [GitHub](https://github.com/bharatcj)
 
-📊 **Developed a Global Error Logging System** to **track, debug, and optimize performance across SugarCRM workflows**.  
+*Open to collaborations in AI, automation, and platform engineering.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,18,24&section=footer" alt="Footer wave" />
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&theme=radical" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=bharatcj&theme=radical&sanitize=true" height="180" />
-</p>
-
----
-
-### 📫 **Get in Touch**
-💼 **LinkedIn**: [linkedin.com/in/bharat-cj](https://www.linkedin.com/in/bharat-cj/)  
-📧 **Email**: [bharatchijay@gmail.com](mailto:bharatchijay@gmail.com)  
-🚀 **GitHub**: [github.com/bharatcj](https://github.com/bharatcj)  
-
----
-
-⭐ **If you like my work, consider starring my repos and following me!** 🌟
+</div>
