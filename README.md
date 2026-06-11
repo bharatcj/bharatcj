@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,18,24&text=Bharat%20CJ&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Team%20Lead%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20Automation&descSize=20&descAlignY=70" alt="Bharat CJ banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:083344,50:0e7490,100:1d4ed8&text=Bharat%20CJ&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Team%20Lead%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20Automation&descSize=20&descAlignY=70" alt="Bharat CJ banner" />
 
 <a href="https://github.com/bharatcj">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Team+Lead+%40+PartyWitty;7%2B+years+%C2%B7+Full-Stack+%26+AI+Engineering;PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+LLMs;I+ship+platforms%2C+not+just+features." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Team+Lead+%C2%B7+Full-Stack+%26+AI+Engineering;7%2B+years+of+building+platforms;PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Node+%C2%B7+Flutter+%C2%B7+LLMs;I+ship+platforms%2C+not+just+features." alt="Typing intro" />
 </a>
 
 <br/>
 
-<a href="https://bharat-cj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-bharat--cj.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://bharat-cj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-bharat--cj.vercel.app-0e7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/bharat-cj/"><img src="https://img.shields.io/badge/LinkedIn-bharat--cj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:bharatchijay@gmail.com"><img src="https://img.shields.io/badge/Email-bharatchijay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/India-Open%20to%20Remote-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://komarev.com/ghpvc/?username=bharatcj&style=for-the-badge&color=8b5cf6" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=bharatcj&style=for-the-badge&color=0e7490" alt="Profile views"/>
 
 </div>
 
@@ -20,14 +20,14 @@
 
 ## 🚀 About Me
 
-I'm **Bharat Chejay J** — Team Lead at **PartyWitty**, where I own engineering across a party-booking platform spanning **web, mobile, admin, and partner surfaces**.
+I'm **Bharat Chejay J** — a **Team Lead** with 7+ years of full-stack & AI engineering. Most recently I led engineering at PartyWitty (Mar–Jul 2026), a party-booking platform spanning **web, mobile, admin, and partner surfaces**.
 
-- 🧭 **Currently:** leading full-stack delivery at PartyWitty — **1,100+ commits across 10 repositories in my first 4 months**, including **87% of the core backend**
-- 🤖 **Previously:** 4 years building AI document-intelligence and CRM automation at Nablasol (OCR + GPT-4 pipelines at 95% accuracy, 24M-record scale) and 3.5 years of full-stack delivery at Quantum Leap (TATA management portal)
+- 🧭 **Most recently:** led full-stack delivery at PartyWitty — **1,100+ commits across 10 repositories in 4 months**, including **87% of the core backend**
+- 🤖 **Before that:** 4 years building AI document-intelligence and CRM automation at Nablasol (OCR + GPT-4 pipelines at 95% accuracy, 24M-record scale) and 3.5 years of full-stack delivery at Quantum Leap (TATA management portal)
 - 🛠 **I love building:** payment systems, AI pipelines (speech-to-text → LLM summaries), secure infrastructure, and automation that removes whole categories of manual work
 - 🔐 **Recently shipped:** an end-to-end infrastructure security overhaul — VPN-segmented routing, automated SSL via DNS-01, hardened API firewalling — and a zero-dependency encrypted database backup platform
 
-## 🏗️ What I'm Building at PartyWitty
+## 🏗️ What I Built at PartyWitty
 
 | Area | Highlights |
 |------|------------|
@@ -77,10 +77,10 @@ I'm **Bharat Chejay J** — Team Lead at **PartyWitty**, where I own engineering
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatcj&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharatcj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatcj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatcj&theme=midnight-purple&hide_border=true" alt="Contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatcj&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
@@ -92,6 +92,6 @@ I'm **Bharat Chejay J** — Team Lead at **PartyWitty**, where I own engineering
 
 *Open to collaborations in AI, automation, and platform engineering.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,18,24&section=footer" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:083344,50:0e7490,100:1d4ed8&section=footer" alt="Footer wave" />
 
 </div>
