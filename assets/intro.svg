@@ -1,0 +1,49 @@
+<svg width="760" height="170" viewBox="0 0 760 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Team Lead, Full-Stack and AI Engineering. 8+ years of building platforms.">
+  <defs>
+    <linearGradient id="introGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6ee7b7"/>
+      <stop offset="50%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card background (keeps text readable on light and dark GitHub themes) -->
+  <rect x="2" y="2" width="756" height="166" rx="14" fill="#0d1117" stroke="#10b981" stroke-opacity="0.35"/>
+
+  <!-- line 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" begin="0.2s" dur="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.2s" dur="0.7s" fill="freeze"/>
+    <text x="380" y="38" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="25" font-weight="700" fill="url(#introGrad)">Team Lead &#183; Full-Stack &amp; AI Engineering</text>
+  </g>
+
+  <!-- underline grows -->
+  <rect x="380" y="50" width="0" height="2" rx="1" fill="url(#introGrad)" opacity="0.7">
+    <animate attributeName="width" from="0" to="420" begin="0.7s" dur="0.8s" fill="freeze"/>
+    <animate attributeName="x" from="380" to="170" begin="0.7s" dur="0.8s" fill="freeze"/>
+  </rect>
+
+  <!-- line 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" begin="0.8s" dur="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.8s" dur="0.7s" fill="freeze"/>
+    <text x="380" y="82" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#d4d4d8">8+ years of building platforms</text>
+  </g>
+
+  <!-- line 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" begin="1.4s" dur="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="1.4s" dur="0.7s" fill="freeze"/>
+    <text x="380" y="114" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#34d399">PHP &#183; Python &#183; React &#183; Node &#183; Flutter &#183; LLMs</text>
+  </g>
+
+  <!-- line 4 with blinking cursor -->
+  <g opacity="0">
+    <animate attributeName="opacity" to="1" begin="2.0s" dur="0.7s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="2.0s" dur="0.7s" fill="freeze"/>
+    <text x="372" y="148" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="17" font-style="italic" fill="#2dd4bf">I ship platforms, not just features.</text>
+    <rect x="560" y="135" width="9" height="16" fill="#34d399">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" begin="2.7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
