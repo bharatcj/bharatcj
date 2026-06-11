@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://bharat-cj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-bharat--cj.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/bharat-cj/"><img src="https://img.shields.io/badge/LinkedIn-bharat--cj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:bharatchijay@gmail.com"><img src="https://img.shields.io/badge/Email-bharatchijay%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/India-Open%20to%20Remote-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
@@ -87,7 +88,7 @@ I'm **Bharat Chejay J** — Team Lead at **PartyWitty**, where I own engineering
 
 <div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/bharat-cj/) · 📧 [bharatchijay@gmail.com](mailto:bharatchijay@gmail.com) · 🐙 [GitHub](https://github.com/bharatcj)
+🌐 [Portfolio](https://bharat-cj.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/bharat-cj/) · 📧 [bharatchijay@gmail.com](mailto:bharatchijay@gmail.com) · 🐙 [GitHub](https://github.com/bharatcj)
 
 *Open to collaborations in AI, automation, and platform engineering.*
 
