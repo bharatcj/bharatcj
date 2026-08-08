@@ -102,7 +102,6 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 <div align="center">
 
-<img height="170" src="https://bharat-stats.vercel.app/api?username=bharatcj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=2dd4bf&text_color=9ca3af&ring_color=10b981" alt="GitHub stats" />
 <img height="170" src="https://bharat-stats.vercel.app/api/top-langs/?username=bharatcj&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=34d399&text_color=9ca3af" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharatcj&hide_border=true&background=0d1117&ring=10b981&fire=34d399&currStreakLabel=34d399&sideLabels=6ee7b7&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" alt="Contribution streak" />
