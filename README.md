@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://bharat-cj.vercel.app"><img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://bharatcj.tech"><img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/bharat-cj/"><img src="https://img.shields.io/badge/LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:bharatchijay@gmail.com"><img src="https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://github.com/bharatcj?tab=repositories"><img src="https://img.shields.io/badge/Repositories-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
@@ -20,12 +20,13 @@
 
 ## 🚀 About Me
 
-I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engineering. Most recently I led engineering at PartyWitty (Mar-Jul 2026), a party-booking platform spanning **web, mobile, admin, and partner surfaces**.
+I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engineering. I ship whole platforms: web, mobile, backend, and the Linux boxes they run on.
 
-- 🧭 **Most recently:** led full-stack delivery at PartyWitty, owning **87% of the core backend** and nearly half of all engineering commits across **10 repositories**
+- 🩺 **Right now:** building [NEET.info](https://neet.info), an AI operating system for NEET preparation and medical counseling. 21 live tools, an AI coach streaming from self-hosted models, and a nightly-synced national directory of **823 medical colleges**, all running on infrastructure I administer myself
+- 🧭 **Most recently:** led full-stack delivery at PartyWitty (Mar-Jul 2026), owning **87% of the core backend** and nearly half of all engineering commits across **10 repositories**
 - 🤖 **Before that:** 4 years building AI document-intelligence and CRM automation at Nablasol (OCR + GPT-4 pipelines at 95% accuracy, 24M-record scale) and 3.5 years of full-stack delivery at Quantum Leap, where I led the TATA management portal
-- 🛠 **I love building:** payment systems, AI pipelines (speech-to-text into LLM summaries), secure Linux infrastructure, and automation that removes whole categories of manual work
-- 🔐 **Recently shipped:** an end-to-end infrastructure security overhaul (VPN-segmented routing, automated SSL via DNS-01, hardened API firewalling) and a zero-dependency encrypted database backup platform
+- 🛠 **I love building:** payment systems, AI pipelines (speech-to-text into LLM summaries), secure Linux infrastructure, and technical SEO that puts real businesses on page one of local search
+- 🔐 **Also shipped:** [SlotItUp](https://slotitup.com), a full appointment-booking platform with a Play Store app, plus a zero-dependency encrypted database backup platform and a 46-point infrastructure security overhaul
 
 
 <img src="./assets/divider.svg" alt="" width="100%" />
@@ -48,9 +49,20 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=django,flask,laravel,git,github,vscode,figma,apple" alt="Frameworks and tools" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel,jest,postman,githubactions,git" alt="Frameworks and tools" />
 
 </div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 🟢 Live Products
+
+| Product | What it is | Stack |
+|---------|------------|-------|
+| [**NEET.info**](https://neet.info) | AI operating system for NEET UG prep and medical counseling: AI coach, study planner, mock analysis, rank predictor, seat matrices, cut-off analysis, rank scan, round simulator, choice optimizer and a decision engine, **21 tools in all**, covering AIQ and all 35 state quotas. Every advisory answer explains itself instead of handing down a bare verdict | Next.js · Fastify · TypeScript · PostgreSQL · Redis · Ollama |
+| [**SlotItUp**](https://slotitup.com) | Appointment booking for salons, spas, barbers and clinics: a Flutter customer app on the [Play Store](https://play.google.com/store/apps/details?id=com.slotitup.app), a multi-subdomain Next.js web app serving six personas, and a hardened FastAPI backend with TOTP MFA and a commission ledger | Flutter · Next.js · FastAPI · PostgreSQL |
+| [**Rudra Dental**](https://rudradental.com) | Freelance build for a Chennai dental clinic: a practice-management backend (appointments, patients, prescriptions, invoices, WhatsApp alerts) behind a local-SEO-first site with Dentist JSON-LD, GA4 and locality-targeted metadata that ranks across its neighborhoods | PHP · MySQL · JSON-LD · GA4 |
+
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -70,7 +82,7 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 📂 Featured Projects
+## 📂 Open Source
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -106,7 +118,7 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 <div align="center">
 
-🌐 [Portfolio](https://bharat-cj.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/bharat-cj/) · 📧 [bharatchijay@gmail.com](mailto:bharatchijay@gmail.com) · 🐙 [GitHub](https://github.com/bharatcj)
+🌐 [bharatcj.tech](https://bharatcj.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/bharat-cj/) · 📧 [bharatchijay@gmail.com](mailto:bharatchijay@gmail.com) · 🐙 [GitHub](https://github.com/bharatcj)
 
 *Open to collaborations in AI, automation, and platform engineering.*
 
