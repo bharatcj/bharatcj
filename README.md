@@ -23,7 +23,7 @@
 I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engineering. I ship whole platforms: web, mobile, backend, and the Linux boxes they run on.
 
 - 🩺 **Right now:** building [NEET.info](https://neet.info), an AI operating system for NEET preparation and medical counseling. 21 live tools, an AI coach streaming from self-hosted models, and a nightly-synced national directory of **823 medical colleges**, all running on infrastructure I administer myself
-- 🧭 **Most recently:** led full-stack delivery at PartyWitty (Mar-Jul 2026), owning **87% of the core backend** and nearly half of all engineering commits across **10 repositories**
+- 🧭 **Most recently:** Team Lead at PartyWitty (Mar-Jul 2026); across my career I've owned up to **87% of a production backend** and nearly half of all engineering commits across **10 repositories**
 - 🤖 **Before that:** 4 years building AI document-intelligence and CRM automation at Nablasol (OCR + GPT-4 pipelines at 95% accuracy, 24M-record scale) and 3.5 years of full-stack delivery at Quantum Leap, where I led the TATA management portal
 - 🛠 **I love building:** payment systems, AI pipelines (speech-to-text into LLM summaries), secure Linux infrastructure, and technical SEO that puts real businesses on page one of local search
 - 🔐 **Also shipped:** [SlotItUp](https://slotitup.com), a full appointment-booking platform with a Play Store app, plus a zero-dependency encrypted database backup platform and a 46-point infrastructure security overhaul
@@ -66,14 +66,14 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🏗️ What I Built at PartyWitty
+## 🏗️ Platform Work I've Shipped
 
 | Area | Highlights |
 |------|------------|
 | 💳 **Payments** | Unified checkout across **Razorpay, Paytm, Stripe & Easebuzz** with wallet co-funding, webhook firewalling & reward issuance |
 | 🧠 **AI Call Intelligence** | Call-center recordings transcribed by **AssemblyAI**, summarized by a **local LLM (Ollama)**, delivered as automated daily reports |
 | 💬 **WhatsApp AI Concierge** | Meta Cloud API bot with **Dify AI** conversations, session memory & message queuing |
-| 🐧 **Linux Administration** | Production VPS fleet: **Pritunl VPN server, iptables firewalling, Apache vhosts, certbot DNS-01 SSL automation**, Docker hardening, Passbolt and phpMyAdmin rollouts |
+| 🐧 **Linux Administration** | Production VPS fleets: **Pritunl VPN servers, iptables firewalling, Apache and nginx vhosts, certbot DNS-01 SSL automation**, Docker hardening, Passbolt and phpMyAdmin rollouts |
 | 🔐 **Security & Backups** | 46-point hardening overhaul, VPN-only admin perimeter, **AES-256-GCM encrypted DB backups to Cloudflare R2** with TOTP MFA |
 | 📱 **Multi-surface delivery** | One platform across React web, Flutter customer + partner apps, CodeIgniter & Node backends |
 | 📊 **Team process** | Trello-synced engineering reports, HRMS with geofence + face-detection attendance |
