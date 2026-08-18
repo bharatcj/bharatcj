@@ -25,7 +25,7 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 - 🩺 **Right now:** building [NEET.info](https://neet.info), an AI operating system for NEET preparation and medical counseling. 21 live tools, an AI coach streaming from self-hosted models, and a nightly-synced national directory of **823 medical colleges**, all running on infrastructure I administer myself
 - 🧭 **Most recently:** Team Lead at PartyWitty (Mar-Jul 2026); across my career I've owned up to **87% of a production backend** and nearly half of all engineering commits across **10 repositories**
 - 🤖 **Before that:** 4 years building AI document-intelligence and CRM automation at Nablasol (OCR + GPT-4 pipelines at 95% accuracy, 24M-record scale) and 3.5 years of full-stack delivery at Quantum Leap, where I led the TATA management portal
-- 🛠 **I love building:** payment systems, AI pipelines (speech-to-text into LLM summaries), secure Linux infrastructure, and technical SEO that puts real businesses on page one of local search
+- 🛠 **I love building:** payment systems, agentic AI pipelines (Dify RAG agents, LangChain, speech-to-text into LLM summaries), secure Linux infrastructure, and technical SEO that puts real businesses on page one of local search
 - 🔐 **Also shipped:** [SlotItUp](https://slotitup.com), a full appointment-booking platform with a Play Store app, plus a zero-dependency encrypted database backup platform and a 46-point infrastructure security overhaul
 
 
@@ -59,7 +59,7 @@ I'm **Bharat Chejay J**, a **Team Lead** with 8+ years of full-stack and AI engi
 
 | Product | What it is | Stack |
 |---------|------------|-------|
-| [**NEET.info**](https://neet.info) | AI operating system for NEET UG prep and medical counseling: AI coach, study planner, mock analysis, rank predictor, seat matrices, cut-off analysis, rank scan, round simulator, choice optimizer and a decision engine, **21 tools in all**, covering AIQ and all 35 state quotas. Every advisory answer explains itself instead of handing down a bare verdict | Next.js · Fastify · TypeScript · PostgreSQL · Redis · Ollama |
+| [**NEET.info**](https://neet.info) | AI operating system for NEET UG prep and medical counseling: an agentic AI coach backed by **six Dify RAG agents**, study planner, mock analysis, rank predictor, seat matrices, cut-off analysis, rank scan, round simulator, choice optimizer and a decision engine, **21 tools in all**, covering AIQ and all 35 state quotas. Every advisory answer explains itself instead of handing down a bare verdict | Next.js · Fastify · TypeScript · PostgreSQL · Redis · Ollama · Dify RAG |
 | [**SlotItUp**](https://slotitup.com) | Appointment booking for salons, spas, barbers and clinics: a Flutter customer app on the [Play Store](https://play.google.com/store/apps/details?id=com.slotitup.app), a multi-subdomain Next.js web app serving six personas, and a hardened FastAPI backend with TOTP MFA and a commission ledger | Flutter · Next.js · FastAPI · PostgreSQL |
 | [**Rudra Dental**](https://rudradental.com) | Freelance build for a Chennai dental clinic: a practice-management backend (appointments, patients, prescriptions, invoices, WhatsApp alerts) behind a local-SEO-first site with Dentist JSON-LD, GA4 and locality-targeted metadata that ranks across its neighborhoods | PHP · MySQL · JSON-LD · GA4 |
 
